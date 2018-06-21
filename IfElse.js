@@ -5,3 +5,11 @@ if(isSunday){
 } else{
 	console.log("Learn code")
 }
+
+
+function equal(a,b){
+	if(a === b) {
+  	return true;
+  }
+  return false;
+}

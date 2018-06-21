@@ -22,7 +22,7 @@ class Circle{
  const circle = new Circle(10)		
  console.log(circle.calcCircumference());
 
-				// FIND DIAMETER
+// // 				// FIND DIAMETER
 
 class Circle{
  	constructor(radius){
@@ -35,7 +35,7 @@ class Circle{
  const circle = new Circle(10)		
  console.log(circle.calcDiameter());
 
-			// FIND RADIUS
+// // 			// FIND RADIUS
 
 class Circle{
  	constructor(diameter){
